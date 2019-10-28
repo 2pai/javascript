@@ -7,3 +7,4 @@ if (packageVersion != lockVersion) {
     console.log(`version in package.json (${packageVersion}) does not match package-lock.json (${lockVersion})`);
     process.exit(1);
 }
+//nanz
